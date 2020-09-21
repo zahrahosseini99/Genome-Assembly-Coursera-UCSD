@@ -1,0 +1,11 @@
+D:\Coursera\Genom assembly\week2\Q2\Q2\bin\Debug\netcoreapp3.1\Q2.exe
+D:\Coursera\Genom assembly\week2\Q2\Q2\bin\Debug\netcoreapp3.1\Q2.deps.json
+D:\Coursera\Genom assembly\week2\Q2\Q2\bin\Debug\netcoreapp3.1\Q2.runtimeconfig.json
+D:\Coursera\Genom assembly\week2\Q2\Q2\bin\Debug\netcoreapp3.1\Q2.runtimeconfig.dev.json
+D:\Coursera\Genom assembly\week2\Q2\Q2\bin\Debug\netcoreapp3.1\Q2.dll
+D:\Coursera\Genom assembly\week2\Q2\Q2\bin\Debug\netcoreapp3.1\Q2.pdb
+D:\Coursera\Genom assembly\week2\Q2\Q2\obj\Debug\netcoreapp3.1\Q2.csprojAssemblyReference.cache
+D:\Coursera\Genom assembly\week2\Q2\Q2\obj\Debug\netcoreapp3.1\Q2.AssemblyInfoInputs.cache
+D:\Coursera\Genom assembly\week2\Q2\Q2\obj\Debug\netcoreapp3.1\Q2.AssemblyInfo.cs
+D:\Coursera\Genom assembly\week2\Q2\Q2\obj\Debug\netcoreapp3.1\Q2.dll
+D:\Coursera\Genom assembly\week2\Q2\Q2\obj\Debug\netcoreapp3.1\Q2.pdb
